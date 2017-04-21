@@ -1,0 +1,9 @@
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\bin\Debug\QTMTest.exe.config
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\bin\Debug\QTMTest.exe
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\bin\Debug\QTMTest.pdb
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.csprojResolveAssemblyReference.cache
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.Form1.resources
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.Properties.Resources.resources
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.csproj.GenerateResource.Cache
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.exe
+c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.pdb
