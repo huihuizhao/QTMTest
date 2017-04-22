@@ -7,3 +7,19 @@ c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Deb
 c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.csproj.GenerateResource.Cache
 c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.exe
 c:\users\赵辉辉\documents\visual studio 2012\Projects\QTMTest\QTMTest\obj\Debug\QTMTest.pdb
+D:\GitHub\QTMTest\QTMTest\bin\Debug\QTMTest.exe.config
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.exe
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.pdb
+D:\GitHub\QTMTest\QTMTest\bin\Debug\QTMTest.exe
+D:\GitHub\QTMTest\QTMTest\bin\Debug\QTMTest.pdb
+D:\GitHub\QTMTest\QTMTest\bin\Debug\mscorlib.dll
+D:\GitHub\QTMTest\QTMTest\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\GitHub\QTMTest\QTMTest\bin\Debug\normidna.nlp
+D:\GitHub\QTMTest\QTMTest\bin\Debug\normnfc.nlp
+D:\GitHub\QTMTest\QTMTest\bin\Debug\normnfd.nlp
+D:\GitHub\QTMTest\QTMTest\bin\Debug\normnfkc.nlp
+D:\GitHub\QTMTest\QTMTest\bin\Debug\normnfkd.nlp
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.csprojResolveAssemblyReference.cache
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.Form1.resources
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.Properties.Resources.resources
+D:\GitHub\QTMTest\QTMTest\obj\Debug\QTMTest.csproj.GenerateResource.Cache
